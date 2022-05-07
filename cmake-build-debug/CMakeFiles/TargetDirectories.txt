@@ -1,0 +1,3 @@
+/home/kirbo/CLionProjects/froglm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kirbo/CLionProjects/froglm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kirbo/CLionProjects/froglm/cmake-build-debug/CMakeFiles/froglm.dir
