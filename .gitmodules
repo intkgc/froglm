@@ -1,0 +1,3 @@
+[submodule "virstack"]
+	path = virstack
+	url = https://github.com/JVMFrog/virstack
